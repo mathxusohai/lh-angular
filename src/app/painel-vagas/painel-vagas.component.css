@@ -1,0 +1,38 @@
+* {
+  color: rgb(0, 0, 0);
+  font-size: 21px;
+  font-weight: 100;
+  text-transform: uppercase;
+  text-align: center;
+  letter-spacing: 1.0px;
+  padding: 0 15px;
+}
+
+button{
+    border-radius: 7px;
+}
+
+input{
+    align-items: center;
+    margin: 5px;
+    background: center;
+    height: 30px;
+}
+
+.button1{
+    background: green;
+    margin-left: 20px;
+    text-align: center;
+}
+
+.button2{
+    background: rgb(36, 0, 134);
+    margin-left: 20px;
+    text-align: center;
+}
+
+.button3{
+    background: rgb(255, 0, 0);
+    margin-left: 20px;
+    text-align: center;
+}

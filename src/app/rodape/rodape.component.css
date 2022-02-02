@@ -1,0 +1,16 @@
+footer{
+    color: blue;
+    height: 50px;
+    display: -webkit-flex;
+    display: flex;
+    align-items: center;
+    align-items: center;
+    margin-top: 150px;
+    border-top: 1px solid #fff;
+    background-color: black;
+}
+div{
+    max-width: 1024px;
+    margin: 0 auto;
+    padding: 0 20px;
+}

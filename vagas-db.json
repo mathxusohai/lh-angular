@@ -1,0 +1,32 @@
+{
+  "vagas": [
+    {
+      "id": 1,
+      "nome": "Desenvolvedor Front End Jr.",
+      "foto": "foto1.jpg",
+      "descricao": "Trabalhar com a Tecnologia Angular",
+      "salario": 6000
+    },
+    {
+      "id": 2,
+      "nome": "Desenvolvedor BackEnd Pleno",
+      "foto": "foto2.jpg",
+      "descricao": "Trabalhar com a Spring Boot",
+      "salario": 8000
+    },
+    {
+      "id": 3,
+      "nome": "Desenvolvedor Fullstack Senior",
+      "foto": "foto3.jpg",
+      "descricao": "Trabalhar com Angular e Spring",
+      "salario": 10000
+    },
+    {
+      "id": "4",
+      "nome": "Gerente/Líder de Projetos",
+      "foto": "foto4.jpg",
+      "descricao": "Gerenciar e Liderar Projetos em Equipe",
+      "salario": "2000"
+    }
+  ]
+}
