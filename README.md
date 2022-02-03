@@ -1,27 +1,17 @@
-# LhAngular
+# Sistema de Cadastro de Vagas em Angular
+Trabalho feito durante o andamento do Curso Informática para Internet do Senai Suiço-Brasileira
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.1.
+## Recursos e Pré Requisitos para a Realização desse Projeto::
 
-## Development server
+- [Visual Studio Code](https://code.visualstudio.com/)
+- [Node.js](https://nodejs.org/en/)
+- [Angular](https://angular.io/)
+- [TypeScript](https://www.typescriptlang.org/)
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+## Prints
 
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+##### Anexos:
+1: ![Projeto em Funcionamento](https://github.com/mathxusohai/matt-angular/blob/master/src/assets/img/vagas/PrintPROJAngular.jpeg)
+2: ![Projeto em Funcionamento](https://github.com/mathxusohai/matt-angular/blob/master/src/assets/img/vagas/PrintPROJAngular%20(2).jpeg)
+##### OBS: Outro dia ou talvez outro mês eu ensino pra vocês como rodar o projeto na sua máquina. 
+obs: to mt felizinho pelo meu primeiro projeto utilizando Angular :))
